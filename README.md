@@ -1,1 +1,2 @@
-# AnalisisNumerico_2024
+# Analisis Numerico (2do cuatrimestre 2024)
+## Departamento de Matemática - FCEyN (UBA)
